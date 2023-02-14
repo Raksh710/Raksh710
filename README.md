@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raksh710
 - 👀 I’m interested in Data Science, ML & AI
-- 🌱 I’m currently learning deep learning using Keras and will soon go to Pytorch
+- 🌱 I’m currently learning and working on various deep-learning architectiures.
 - 💞️ I’m looking to collaborate on various Kaggle Data Science Projects and competitions
 - 📫 How to reach me -Ping me on Kaggle by sending me collab request Raksh710 is my username
 - My Portfolio Website: https://rakshitsinha.net/
